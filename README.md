@@ -22,7 +22,8 @@ AND Departamento.Nome IN (SELECT Departamento.Nome FROM TabelaTemporaria)
 --Fiz desse modo para evitar colocar coisas fixas na query, então cada vez que criar um departamento novo não preciso me preocupar em mexer na query.
 
 
-Fonte: https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2008-r2/ms190766(v=sql.105)?redirectedfrom=MSDN
-       https://docs.microsoft.com/pt-br/sql/t-sql/functions/max-transact-sql?view=sql-server-ver15
+### Fonte: 
+https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2008-r2/ms190766(v=sql.105)?redirectedfrom=MSDN
+https://docs.microsoft.com/pt-br/sql/t-sql/functions/max-transact-sql?view=sql-server-ver15
 
 
