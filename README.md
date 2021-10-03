@@ -4,6 +4,8 @@
  
 Fiz o projeto no visual studio, não fiz nenhuma pesquisa especifica, só li um pouco sobre arvore binária, mas tentei fazer só usando o que sei, usei praticamente Linq e método recursivo pra percorrer e organizar a arvore.
 
+Em breve ele estará no repositório desse github
+
 ## Exercício 2
 
 --Criei uma tabela temporária onde guardo o valor máximo do salário sem o nome da pessoa que é a única coisa que impede de ser pesquisado com apenas um select
