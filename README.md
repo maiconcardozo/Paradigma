@@ -2,7 +2,7 @@
 
 ## Exercicio 1
  
-Fiz o projeto no visual studio, não fiz nenhuma pesquisa especifica, só li um pouco sobre arvore binária, mas tentei fazer só usando o que sei, usei praticamente Linq e método recursivo pra percorrer e organizar a arvore.
+Fiz o projeto no visual studio, não realizei nenhuma pesquisa especifica, só li um pouco sobre arvore binária, mas tentei fazer só usando o que sei, usei praticamente Linq e método recursivo pra percorrer e organizar a arvore.
 
 Em breve ele estará no repositório desse github
 
