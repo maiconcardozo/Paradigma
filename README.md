@@ -1,7 +1,7 @@
 # Paradigma
 
-##Exercicio 1
-
+## Exercicio 1
+ 
 Fiz o projeto no visual studio, não fiz nenhuma pesquisa especifica, só li um pouco sobre arvore binária, mas tentei fazer só usando o que sei, usei praticamente Linq e método recursivo pra percorrer e organizar a arvore.
 
 ## Exercício 2
