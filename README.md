@@ -2,7 +2,7 @@
 
 
 
-#Exercício 2
+## Exercício 2
 
 --Criei uma tabela temporária onde guardo o valor máximo do salário sem o nome da pessoa que é a única coisa que impede de ser pesquisado com apenas um select
 WITH TabelaTemporaria AS (select  max(salario) Salario,Departamento.Nome from pessoa as p
