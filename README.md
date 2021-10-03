@@ -19,6 +19,6 @@ join Departamento on Departamento.Id = pessoa.DepartamentoId
 WHERE pessoa.Salario IN (SELECT Salario FROM TabelaTemporaria)
 AND Departamento.Nome IN (SELECT Departamento.Nome FROM TabelaTemporaria)
 
---Fiz desse modo para evitar colocar coisas fixas na query, então cada vez que criar um departamento novo, não preciso me preocupar em mexer na query.
+--Fiz desse modo para evitar colocar coisas fixas na query, então cada vez que criar um departamento novo não preciso me preocupar em mexer na query.
 
 
