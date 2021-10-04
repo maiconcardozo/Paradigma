@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e77441f-cae4-4019-87c2-e67f9f88322c": {
+      "ProjectGuid": "8e77441f-cae4-4019-87c2-e67f9f88322c",
+      "DisplayName": "Paradigma",
+      "ColorIndex": 0
+    },
+    "98cc9b2f-cf77-4cfd-bc57-fa9d9c701472": {
+      "ProjectGuid": "98cc9b2f-cf77-4cfd-bc57-fa9d9c701472",
+      "DisplayName": "Paradigma.Teste",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
