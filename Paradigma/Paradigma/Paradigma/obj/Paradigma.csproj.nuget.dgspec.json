@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maicon Cardozo\\Desktop\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj": {}
+    "C:\\Users\\Maicon Cardozo\\source\\repos\\Paradigma\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maicon Cardozo\\Desktop\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj": {
+    "C:\\Users\\Maicon Cardozo\\source\\repos\\Paradigma\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maicon Cardozo\\Desktop\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj",
+        "projectUniqueName": "C:\\Users\\Maicon Cardozo\\source\\repos\\Paradigma\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj",
         "projectName": "Paradigma",
-        "projectPath": "C:\\Users\\Maicon Cardozo\\Desktop\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj",
+        "projectPath": "C:\\Users\\Maicon Cardozo\\source\\repos\\Paradigma\\Paradigma\\Paradigma\\Paradigma\\Paradigma.csproj",
         "packagesPath": "C:\\Users\\Maicon Cardozo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maicon Cardozo\\Desktop\\Paradigma\\Paradigma\\Paradigma\\obj\\",
+        "outputPath": "C:\\Users\\Maicon Cardozo\\source\\repos\\Paradigma\\Paradigma\\Paradigma\\Paradigma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

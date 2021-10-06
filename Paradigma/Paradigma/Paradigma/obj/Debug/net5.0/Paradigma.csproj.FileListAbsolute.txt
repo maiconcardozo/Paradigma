@@ -10,3 +10,15 @@ C:\Users\Maicon Cardozo\Desktop\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\P
 C:\Users\Maicon Cardozo\Desktop\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\ref\Paradigma.dll
 C:\Users\Maicon Cardozo\Desktop\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.pdb
 C:\Users\Maicon Cardozo\Desktop\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.csproj.AssemblyReference.cache
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\bin\Debug\net5.0\Paradigma.deps.json
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\bin\Debug\net5.0\Paradigma.dll
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\bin\Debug\net5.0\ref\Paradigma.dll
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\bin\Debug\net5.0\Paradigma.pdb
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.csproj.AssemblyReference.cache
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.AssemblyInfoInputs.cache
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.AssemblyInfo.cs
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.csproj.CoreCompileInputs.cache
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.dll
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\ref\Paradigma.dll
+C:\Users\Maicon Cardozo\source\repos\Paradigma\Paradigma\Paradigma\Paradigma\obj\Debug\net5.0\Paradigma.pdb
