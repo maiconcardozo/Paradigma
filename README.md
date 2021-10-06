@@ -4,7 +4,16 @@
  
 Fiz o projeto no visual studio, não realizei nenhuma pesquisa especifica, só li um pouco sobre arvore binária, mas tentei fazer só usando o que sei, usei praticamente Linq e método recursivo pra percorrer e organizar a arvore.
 
-Em breve ele estará no repositório desse github
+Código já está commited :D Rodar os teste unitários para os 3 cenários. Não comentei nada no código mas se precisarem tirar alguma dúvida podemos marcar uma call para esclarecimento.
+
+Obs.: O exemplo 1 como mostrado no word está assim:
+A[
+   [B[D][G]]
+   [C[E[F]][H]]]
+]
+
+Acho que ta sobrando um ] me corrija se eu estiver errado. 
+
 
 ## Exercício 2
 
